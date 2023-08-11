@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynBv4Nqzvu981+GWYdnRSMJfI13SR7NK2nxdMVzw7DlGl9ARKvF98KyoNdkIMjOVUIhFBnufAUHkk5OxyeYP7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nparnevov\\Source\\Repos\\homework-1\\src\\Route256.Week1.Homework.PriceCalculator.Api\\Route256.Week1.Homework.PriceCalculator.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nparnevov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nparnevov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nparnevov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nparnevov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nparnevov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nparnevov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
